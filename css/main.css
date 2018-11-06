@@ -1,0 +1,14 @@
+body {
+	width: 330px;
+	margin: 0 auto;
+	background-color: white;
+	color: black;
+}
+
+header { text-align: center; }
+
+header, .choice { margin-bottom: 60px; }
+
+.result { margin-top: 60px; }
+
+button { cursor:pointer; }
